@@ -1,0 +1,2 @@
+sdf_record,input_name,status,attempts,embedded,free_retained,lowest_label,bound_eV,lowest_free_eV,strain_kcal_mol
+1,Ethanol demo,negative estimate,15,2,3,batch1_conf0,-4217.1872317790985,-4217.1871066093445,-0.0028864830996394157
